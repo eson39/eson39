@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Im Eric</h1>
-<h3 align="center">Georgia Tech class of 2028.</h3>
+<h3 align="center">Georgia Tech class of 2027.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
